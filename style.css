@@ -1,0 +1,46 @@
+p{
+    color : brown;
+    text-align: center;
+    line-height: 30px;
+
+}
+
+h1{
+    text-align : center;
+    text-decoration : underline;
+}
+
+body{
+    font-family: Georgia;
+}
+
+h3{
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color : rgb(0,255,0);
+}
+
+button{
+    background-color : white;
+    color : blueviolet;
+}
+
+textarea {
+    color: #000;
+}
+
+span{
+    text-decoration : double underline rgb(216, 4, 216);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    width: 400px;
+    height : 300px;
+}
